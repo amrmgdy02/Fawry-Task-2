@@ -1,20 +1,3 @@
-# Quantum Bookstore
-
-A simple Java application that demonstrates object-oriented programming concepts through a bookstore management system.
-
-## Features
-
-- **Book Management**: Add and manage different types of books (Paper Books, E-Books, Showcase Books)
-- **Inventory System**: Track book availability and inventory
-- **Purchase Processing**: Handle book purchases with email notifications and shipping
-- **Automatic Cleanup**: Remove outdated books from inventory
-
-## Book Types
-
-- **Paper Book**: Physical books with stock quantity
-- **E-Book**: Digital books with download format
-- **Showcase Book**: Demo books for display only (cannot be purchased)
-
 ## Project Structure
 
 ```
