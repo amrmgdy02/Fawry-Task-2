@@ -1,8 +1,6 @@
 package com.quantumbookstore;
-
 import com.quantumbookstore.books.*;
 import com.quantumbookstore.store.Bookstore;
-
 import java.util.List;
 
 public class QuantumBookstoreTest {
