@@ -58,7 +58,7 @@ The application demonstrates:
 
 ## Screenshots
 
-Screenshots of the application output are available in the repository to show the various features and functionality in action.
+Screenshots of the application output are available in the *screenshots directory* to show the various features and functionality in action.
 
 ## Requirements
 
