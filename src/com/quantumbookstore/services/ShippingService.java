@@ -1,0 +1,7 @@
+package com.quantumbookstore.services;
+
+public class ShippingService {
+    public static void sendPaperBook(String address) {
+        System.out.println("Paper book shipped to address: " + address);
+    }
+}
