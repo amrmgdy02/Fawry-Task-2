@@ -1,3 +1,22 @@
+# Quantum Bookstore
+
+A Java-based bookstore management system that demonstrates object-oriented programming concepts including inheritance, polymorphism, and abstraction.
+
+## Features
+
+- **Multiple Book Types**: Support for physical books, e-books, and showcase books
+- **Inventory Management**: Add, display, and remove books from inventory
+- **Purchase Processing**: Handle book purchases with different delivery methods
+- **Email Notifications**: Send purchase confirmations via email
+- **Shipping Services**: Physical delivery for paper books
+- **Automatic Cleanup**: Remove outdated books from inventory
+
+## Book Types
+
+- **PaperBook**: Physical books that require shipping
+- **EBook**: Digital books delivered via email
+- **ShowcaseBook**: Demo books that cannot be purchased
+
 ## Project Structure
 
 ```
@@ -37,7 +56,11 @@ The application demonstrates:
 - Handling purchase restrictions (showcase books)
 - Removing outdated books
 
+## Screenshots
+
+Screenshots of the application output are available in the repository to show the various features and functionality in action.
+
 ## Requirements
 
 - Java 8 or higher
-- No external dependencies required
+- No external dependencies
